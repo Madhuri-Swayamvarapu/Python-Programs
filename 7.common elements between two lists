@@ -1,0 +1,8 @@
+
+list1=list(map(int,input().split()))
+list2=list(map(int,input().split()))
+nums=[]
+for i in list1:
+    if i in list2:
+        nums.append(list1[i])
+print(nums) 
