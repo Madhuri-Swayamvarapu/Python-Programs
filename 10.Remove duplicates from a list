@@ -1,0 +1,7 @@
+nums=list(map(int,input().split()))
+arr=[]
+for n in nums:
+    if n not in arr:
+        arr.append(n)
+print(arr)        
+        
