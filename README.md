@@ -148,22 +148,24 @@ git clone <repository-url>
 
 2. Navigate to the project folder:
 
+```bash
 cd Python-Programs
 
 3. Run any Python file:
 
+```bash
 python filename.py
 
 
 
-📈** Future Improvements**
+## 📈  Future Improvements
 
 Add optimized solutions for existing programs
 Add test cases for each program
 Improve code documentation
 Implement advanced algorithms and data structures
 
-**👩‍💻 Author**
+##👩‍💻 Author
 
 **Madhuri Swayam Varapu**
 
