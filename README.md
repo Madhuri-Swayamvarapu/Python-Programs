@@ -140,7 +140,7 @@ By completing these programs, I improved my understanding of:
 ---
 
 
-##👩‍💻 Author
+**👩‍💻 Author**
 
 **Madhuri Swayam Varapu**
 
