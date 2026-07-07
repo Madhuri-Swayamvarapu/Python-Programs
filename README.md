@@ -139,31 +139,6 @@ By completing these programs, I improved my understanding of:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository:
-
-```bash
-git clone <repository-url>
-
-2. Navigate to the project folder:
-
-```bash
-cd Python-Programs
-
-3. Run any Python file:
-
-```bash
-python filename.py
-
-
-
-## 📈  Future Improvements
-
-Add optimized solutions for existing programs
-Add test cases for each program
-Improve code documentation
-Implement advanced algorithms and data structures
 
 ##👩‍💻 Author
 
