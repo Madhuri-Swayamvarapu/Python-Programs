@@ -1,0 +1,9 @@
+n1=int(input())
+list1=list(map(int,input().split()))
+n2=int(input())
+list2=list(map(int,input().split()))
+result=[]
+for i in list1:
+    if i in list2 and i not in result:
+        result.append(i)
+print(result)
